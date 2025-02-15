@@ -1,12 +1,9 @@
-# Eliza 🤖
+# AVM Plugins 🤖
 
-<div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
-</div>
 
 <div align="center">
 
-📑 [Technical Report](https://arxiv.org/pdf/2501.06781) |  📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
+🎯 [Examples](https://github.com/thejoven/awesome-eliza)
 
 </div>
 
@@ -146,11 +143,6 @@ pnpm install --include=optional sharp
 
 ---
 
-### Start Eliza with Gitpod
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elizaos/eliza/tree/main)
-
----
 
 ### Deploy Eliza in one click 
 
@@ -163,30 +155,3 @@ Click [here](https://fleek.xyz/eliza/) to get started!
 
 ---
 
-### Community & contact
-
-- [GitHub Issues](https://github.com/elizaos/eliza/issues). Best for: bugs you encounter using Eliza, and feature proposals.
-- [Discord](https://discord.gg/ai16z). Best for: sharing your applications and hanging out with the community.
-
-## Citation
-
-We now have a [paper](https://arxiv.org/pdf/2501.06781) you can cite for the Eliza OS:
-```bibtex
-@article{walters2025eliza,
-  title={Eliza: A Web3 friendly AI Agent Operating System},
-  author={Walters, Shaw and Gao, Sam and Nerd, Shakker and Da, Feng and Williams, Warren and Meng, Ting-Chien and Han, Hunter and He, Frank and Zhang, Allen and Wu, Ming and others},
-  journal={arXiv preprint arXiv:2501.06781},
-  year={2025}
-}
-```
-
-## Contributors
-
-<a href="https://github.com/elizaos/eliza/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=elizaos/eliza" alt="Eliza project contributors" />
-</a>
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=elizaos/eliza&type=Date)](https://star-history.com/#elizaos/eliza&Date)
